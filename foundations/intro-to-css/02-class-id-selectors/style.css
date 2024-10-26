@@ -1,0 +1,22 @@
+.one {
+    background-color: rgb(255,200,220);
+    font-size: 20px;
+    font-family: Verdana,sans-serif;
+    }
+
+#two {
+    color: rgb(58,134,255);
+    font-size: 36px;
+    font-family: "Times New Roman", serif;
+}
+
+.three.cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(112,220,0);
+    font-size: 24px;
+    font-family: "Times-New-Roman",serif;
+    font-weight: 600;
+}
